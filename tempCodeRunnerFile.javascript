@@ -1,0 +1,4 @@
+
+const meal = {
+description: "Dinner"
+};
