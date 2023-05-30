@@ -146,11 +146,20 @@ nav{
     display: flex;
     align-items: center;
     justify-content: center;
-    /* width: 80%; */
+    //width: 80%; 
     margin: auto;
     padding-top: 50px;
  }  
- 
+
+.upcoming .text-col {
+	font-size: 15px;
+  background-color: #ff8177;
+  background-image: linear-gradient(to top, #AC92C5 0%, #75F2CC 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent
+	
+}
 
  .img{
     max-width: 100%;
